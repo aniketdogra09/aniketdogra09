@@ -2,6 +2,7 @@
 
 <h1 align="center">Hello people, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width="33"/> I'm Aniket</h1>
 <h3 align="center">Let's get together in quest of endless learning</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketdogra09" alt="Aniket's views" /> </p>
 <h3 align="center">
   <pre><a class="col" href="https://www.linkedin.com/in/aniket-dogra-77aa4b1a4/"><img width="40px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>    <a class="col" href="mailTo:aniketdogra09@gmail.com"><img width="40px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>    <a class="col" href="https://twitter.com/itsAniketDogra"><img width="40px" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a></pre>
 </h3>
