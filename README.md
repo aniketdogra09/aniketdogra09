@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 - 🔭 I’m currently working on Full Stack development.
 - 🌱 I’m currently learning React and a lot of stuff.
